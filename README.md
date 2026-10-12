@@ -4,38 +4,43 @@
   <img src="assets/banner-light.svg" alt="WhiteKiwi awesome — Keep the good." width="100%">
 </picture>
 
-마음에 든 글, 영상, 도구와 온갖 발견을 다시 꺼내 보기 위해 모읍니다.
+# 좋아서, 모아둡니다.
 
-[＋ 새 링크 담기](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml) · [Inbox](https://github.com/WhiteKiwi/awesome/issues?q=is%3Aissue%20is%3Aopen%20label%3Ainbox) · [기록 방법](CONTRIBUTING.md)
+마음에 든 글과 영상, 그리고 다시 꺼내 보고 싶은 발견들을 모읍니다.
+
+[📖 아티클](#아티클) · [🎬 영상](#영상)
+
+---
+
+## 아티클
+
+### [서버 모니터링 분석 가이드](https://kciter.so/posts/server-monitoring-analysis-guide/)
+
+지연과 에러 같은 사용자 증상에서 출발해, 여러 지표를 함께 읽으며 장애 원인을 좁히는 방법.
+
+<sub>kciter.so · 모니터링 / 트러블슈팅</sub>
+
+### [켄트 벡과 함께하는 증강 코딩](https://velog.io/@qlgks1/Kent-Beck-Augmented-Coding)
+
+개발자가 주도권을 잡고 테스트와 구조 개선을 병행하는 증강 코딩의 원칙과 실전 워크플로우.
+
+<sub>정현우 · AI 코딩 / TDD</sub>
+
+[아티클 전체 보기 →](collection/articles.md)
+
+## 영상
+
+### [AI 코딩, 기능 사이에 멈추는 법](https://www.youtube.com/watch?v=B-tCy2bKSMc)
+
+켄트 벡의 강연을 바탕으로, 기능을 더하는 사이에 멈춰 코드의 구조와 변경 여지를 지키는 방법을 살펴봅니다.
+
+<sub>AgentOS · 33분 · AI 코딩 / 설계</sub>
+
+[영상 전체 보기 →](collection/videos.md)
 
 ---
 
-## 둘러보기
-
-- [📖 아티클](collection/articles.md) — 생각을 넓히는 글, 블로그, 에세이, 인터뷰
-- [🎬 영상](collection/videos.md) — 강연, 대화, 튜토리얼, 다큐멘터리
-
-## 모으는 기준
-
-- **좋았던 이유를 남깁니다.** 한 문장이면 충분합니다.
-- **내 취향을 따릅니다.** 유명한 자료도, 우연히 발견한 작은 글도 좋습니다.
-- **다시 찾기 쉽게 씁니다.** 원문 링크와 내용이 떠오르는 설명을 함께 둡니다.
-
-## 담는 방법
-
-일단 [Inbox에 링크를 기록](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)합니다.
-마음에 남는 자료는 해당 서랍에 옮기고, 정리가 끝난 Inbox 이슈는 닫습니다.
-바로 정리하고 싶다면 서랍 파일에 아래 형식으로 추가해도 좋습니다.
-
-```markdown
-- [제목](원문-URL) — 좋았던 이유 한 문장. `태그` · YYYY-MM-DD
-```
-
-태그와 날짜는 선택입니다. 같은 서랍 안에서는 최근에 담은 항목을 위에 둡니다.
-맞는 서랍이 없다면 첫 자료와 함께 새 카테고리를 만듭니다.
-다른 사람의 추천도 [Inbox](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)나 Pull Request로 받습니다.
-
----
+함께 모으고 싶은 링크가 있다면 [여기에 남겨주세요 →](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)
 
 <p align="center">
   <sub>Curated by <a href="https://github.com/WhiteKiwi">WhiteKiwi</a> · 목록과 메모는 <a href="LICENSE">CC0 1.0</a></sub>

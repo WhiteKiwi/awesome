@@ -16,7 +16,7 @@ body:
     id: format
     attributes:
       label: 자료 형식
-      description: 자료에 맞는 형식을 자유롭게 적어주세요. 새 카테고리는 첫 자료를 정리할 때 만듭니다.
+      description: 자료에 맞는 형식을 자유롭게 적어주세요.
       placeholder: "예: 아티클, 영상"
     validations:
       required: true
