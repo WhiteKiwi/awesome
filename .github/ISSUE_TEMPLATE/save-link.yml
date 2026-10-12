@@ -1,15 +1,10 @@
 name: "＋ 새 링크 담기"
 description: "아티클, 영상, 도구 등 마음에 든 발견을 Inbox에 기록합니다."
-title: "[발견] "
 labels: [inbox]
 body:
-  - type: input
-    id: title
+  - type: markdown
     attributes:
-      label: 제목
-      description: 자료의 원래 제목을 적어주세요.
-    validations:
-      required: true
+      value: "위 제목 칸에 자료의 원래 제목을 적고, 원문 링크를 남겨주세요."
   - type: input
     id: url
     attributes:
