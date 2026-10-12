@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">WhiteKiwi awesome</title>
+  <desc id="desc">A shelf for things worth keeping. A green kiwi slice sits beside a stack of saved notes.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#DCE4D3"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="#F6F8F2"/>
+  <rect x="754" y="26" width="492" height="308" rx="22" fill="url(#dots)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <circle cx="63" cy="57" r="7" fill="#86A85D"/>
+    <text x="85" y="63" font-size="15" font-weight="650" letter-spacing="3" fill="#52634D">WHITEKIWI / PERSONAL COLLECTION</text>
+    <text x="55" y="195" font-size="116" font-weight="750" letter-spacing="-7" fill="#21372A">awesome<tspan fill="#86A85D">.</tspan></text>
+    <text x="61" y="244" font-size="25" letter-spacing=".2" fill="#52634D">A shelf for things worth keeping.</text>
+    <g fill="none" stroke="#D5DFCB">
+      <rect x="60" y="284" width="95" height="32" rx="16"/>
+      <rect x="165" y="284" width="109" height="32" rx="16"/>
+      <rect x="284" y="284" width="105" height="32" rx="16"/>
+      <rect x="399" y="284" width="159" height="32" rx="16"/>
+    </g>
+    <g font-size="12" font-weight="650" letter-spacing="1.4" text-anchor="middle" fill="#52634D">
+      <text x="108" y="305">READ</text>
+      <text x="220" y="305">WATCH</text>
+      <text x="337" y="305">EXPLORE</text>
+      <text x="479" y="305">KEEP THE GOOD</text>
+    </g>
+  </g>
+  <g transform="rotate(8 1013 178)">
+    <rect x="880" y="70" width="275" height="218" rx="18" fill="#E5ECD9" stroke="#D5DFCB"/>
+    <rect x="861" y="54" width="275" height="218" rx="18" fill="#FFFFFF" stroke="#D5DFCB"/>
+    <path d="M888 80h76m-76 12h49" stroke="#D5DFCB" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="rotate(-12 1010 178)">
+    <circle cx="1010" cy="180" r="109" fill="#A2B978"/>
+    <circle cx="1010" cy="178" r="101" fill="#D9EBBA"/>
+    <circle cx="1010" cy="178" r="87" fill="#C3DC97"/>
+    <g stroke="#D9EBBA" stroke-width="3" opacity=".9">
+      <path d="M1010 91v174M923 178h174M948 116l124 124M948 240l124-124"/>
+    </g>
+    <ellipse cx="1010" cy="178" rx="29" ry="42" fill="#F6F8F2"/>
+    <g fill="#3C5332">
+      <ellipse cx="1010" cy="120" rx="3.5" ry="7"/>
+      <ellipse cx="1010" cy="236" rx="3.5" ry="7"/>
+      <ellipse cx="952" cy="178" rx="7" ry="3.5"/>
+      <ellipse cx="1068" cy="178" rx="7" ry="3.5"/>
+      <ellipse cx="982" cy="128" rx="3.5" ry="7" transform="rotate(-30 982 128)"/>
+      <ellipse cx="1038" cy="128" rx="3.5" ry="7" transform="rotate(30 1038 128)"/>
+      <ellipse cx="960" cy="149" rx="3.5" ry="7" transform="rotate(-60 960 149)"/>
+      <ellipse cx="1060" cy="149" rx="3.5" ry="7" transform="rotate(60 1060 149)"/>
+      <ellipse cx="960" cy="207" rx="3.5" ry="7" transform="rotate(60 960 207)"/>
+      <ellipse cx="1060" cy="207" rx="3.5" ry="7" transform="rotate(-60 1060 207)"/>
+      <ellipse cx="982" cy="228" rx="3.5" ry="7" transform="rotate(30 982 228)"/>
+      <ellipse cx="1038" cy="228" rx="3.5" ry="7" transform="rotate(-30 1038 228)"/>
+    </g>
+  </g>
+  <g transform="rotate(-8 887 269)">
+    <rect x="806" y="241" width="174" height="58" rx="12" fill="#FFFFFF" stroke="#D5DFCB"/>
+    <path d="M826 258h12v22l-6-4-6 4z" fill="#86A85D"/>
+    <text x="851" y="275" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#21372A">KEEP THIS.</text>
+  </g>
+  <path d="M1174 74v20m-10-10h20" stroke="#86A85D" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="1146" cy="307" r="4" fill="#86A85D"/>
+</svg>

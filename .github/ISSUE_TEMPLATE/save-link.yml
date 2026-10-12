@@ -1,0 +1,50 @@
+name: "＋ 새 링크 담기"
+description: "아티클, 영상, 도구 등 마음에 든 발견을 Inbox에 기록합니다."
+title: "[발견] "
+labels: [inbox]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 제목
+      description: 자료의 원래 제목을 적어주세요.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 원문 링크
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: 자료 형식
+      options:
+        - 아티클
+        - 영상
+        - 도구와 저장소
+        - 책과 코스
+        - 그 밖의 발견
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: 왜 좋았나요?
+      description: 좋았던 점이나 다시 꺼내보고 싶은 이유를 한 문장으로 남겨주세요. 나중에 적어도 좋습니다.
+      placeholder: "이 자료에서 기억하고 싶은 것…"
+  - type: input
+    id: tags
+    attributes:
+      label: 태그
+      description: 다시 찾을 때 떠올릴 만한 단어를 적어주세요.
+  - type: dropdown
+    id: progress
+    attributes:
+      label: 지금 상태
+      options:
+        - 나중에 읽기 / 보기 / 써보기
+        - 읽는 중 / 보는 중 / 써보는 중
+        - 읽었음 / 봤음 / 써봤음
