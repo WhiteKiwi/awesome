@@ -40,7 +40,7 @@
 
 ---
 
-함께 모으고 싶은 링크가 있다면 [여기에 남겨주세요 →](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)
+[좋은 링크 추천하기 →](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)
 
 <p align="center">
   <sub>Curated by <a href="https://github.com/WhiteKiwi">WhiteKiwi</a> · 목록과 메모는 <a href="LICENSE">CC0 1.0</a></sub>
