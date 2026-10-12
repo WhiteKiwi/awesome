@@ -1,6 +1,4 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
   <img src="assets/banner-light.svg" alt="WhiteKiwi awesome — Keep the good." width="100%">
