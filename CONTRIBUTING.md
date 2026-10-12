@@ -14,12 +14,8 @@
 | :--- | :--- |
 | 아티클 | [collection/articles.md](collection/articles.md) |
 | 영상 | [collection/videos.md](collection/videos.md) |
-| 도구와 저장소 | [collection/tools.md](collection/tools.md) |
-| 책과 코스 | [collection/books.md](collection/books.md) |
-| 그 밖의 발견 | [collection/discoveries.md](collection/discoveries.md) |
 
 해당 파일의 **모아둔 것들** 아래에 최근 항목부터 추가합니다.
-첫 항목을 담을 때는 빈 상태 안내 문장을 지웁니다.
 
 ```markdown
 - [제목](원문-URL) — 좋았던 이유 한 문장. `태그` · YYYY-MM-DD
@@ -30,6 +26,12 @@
 - 태그와 날짜는 선택입니다. 날짜를 적는다면 저장한 날을 사용합니다.
 - 같은 링크가 이미 있는지 확인합니다. 여러 형식에 걸치는 자료는 가장 잘 맞는 서랍에 둡니다.
 - 항목이 많아지면 해당 서랍 안에 주제별 제목을 추가합니다.
+
+## 새 카테고리 만들기
+
+새 카테고리는 첫 자료를 담을 때 만듭니다.
+기존 카테고리에 맞지 않는 자료가 생기면 `collection/`에 새 Markdown 파일을 만들고, 제목·짧은 소개·**모아둔 것들**과 첫 항목을 함께 추가합니다.
+[README](README.md)의 **둘러보기**와 위 파일 표에도 새 카테고리의 링크를 추가합니다.
 
 ## 추천하기
 

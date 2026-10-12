@@ -14,9 +14,6 @@
 
 - [📖 아티클](collection/articles.md) — 생각을 넓히는 글, 블로그, 에세이, 인터뷰
 - [🎬 영상](collection/videos.md) — 강연, 대화, 튜토리얼, 다큐멘터리
-- [🧰 도구와 저장소](collection/tools.md) — 써보고 싶은 앱, 오픈 소스, 작은 도구
-- [📚 책과 코스](collection/books.md) — 책, 강의, 차근차근 공부할 자료
-- [✨ 그 밖의 발견](collection/discoveries.md) — 웹사이트, 디자인, 음악, 아직 이름 붙이지 못한 것들
 
 ## 모으는 기준
 
@@ -35,6 +32,7 @@
 ```
 
 태그와 날짜는 선택입니다. 같은 서랍 안에서는 최근에 담은 항목을 위에 둡니다.
+맞는 서랍이 없다면 첫 자료와 함께 새 카테고리를 만듭니다.
 다른 사람의 추천도 [Inbox](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)나 Pull Request로 받습니다.
 
 ---
