@@ -4,7 +4,7 @@
   <img src="assets/banner-light.svg" alt="WhiteKiwi awesome — Keep the good." width="100%">
 </picture>
 
-# 좋아서, 모아둡니다.
+# 좋아서, 모아요.
 
 마음에 든 글과 영상, 그리고 다시 꺼내 보고 싶은 발견들을 모읍니다.
 
