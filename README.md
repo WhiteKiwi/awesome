@@ -1,22 +1,14 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="WhiteKiwi awesome — A shelf for things worth keeping." width="100%">
+  <img src="assets/banner-light.svg" alt="WhiteKiwi awesome — Keep the good." width="100%">
 </picture>
 
-<p align="center">
-  <strong>좋아서, 모아둡니다.</strong><br>
-  다시 읽고 싶은 글, 오래 남는 영상, 써보고 싶은 도구.<br>
-  형식과 분야를 가리지 않고 마음에 든 것들을 모으는 개인 컬렉션입니다.
-</p>
+마음에 든 글, 영상, 도구와 온갖 발견을 다시 꺼내 보기 위해 모읍니다.
 
-<p align="center">
-  <a href="https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml">＋ 새 링크 담기</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/WhiteKiwi/awesome/issues?q=is%3Aissue%20is%3Aopen%20label%3Ainbox">Inbox</a>
-  &nbsp;·&nbsp;
-  <a href="CONTRIBUTING.md">기록 방법</a>
-</p>
+[＋ 새 링크 담기](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml) · [Inbox](https://github.com/WhiteKiwi/awesome/issues?q=is%3Aissue%20is%3Aopen%20label%3Ainbox) · [기록 방법](CONTRIBUTING.md)
 
 ---
 
@@ -38,7 +30,7 @@
 
 ## 담는 방법
 
-일단 **[Inbox에 링크를 기록](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)**합니다.
+일단 [Inbox에 링크를 기록](https://github.com/WhiteKiwi/awesome/issues/new?template=save-link.yml)합니다.
 마음에 남는 자료는 해당 서랍에 옮기고, 정리가 끝난 Inbox 이슈는 닫습니다.
 바로 정리하고 싶다면 서랍 파일에 아래 형식으로 추가해도 좋습니다.
 
