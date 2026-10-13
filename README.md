@@ -14,6 +14,12 @@
 
 ## 아티클
 
+### [AI와 함께 개발할 때 Go가 유리한 이유](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+
+빠른 컴파일과 일관된 코드·통합 도구가 AI 생성 코드의 검토·검증 반복에 유리하다는 관점.
+
+<sub>Google Developers Blog · Go / AI 코딩</sub>
+
 ### [서버 모니터링 분석 가이드](https://kciter.so/posts/server-monitoring-analysis-guide/)
 
 지연과 에러 같은 사용자 증상에서 출발해, 여러 지표를 함께 읽으며 장애 원인을 좁히는 방법.
