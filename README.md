@@ -14,23 +14,23 @@
 
 ## 아티클
 
+### [How to Write Usefully](https://www.paulgraham.com/useful.html)
+
+새롭고 중요한 사실을 정확하고 분명하게 전하는 글의 조건과, 초고를 고쳐 쓰며 생각을 다듬는 방법.
+
+<sub>Paul Graham · 글쓰기 / 에세이</sub>
+
+### [Genies Grant Wishes Only to Teach You a Lesson](https://vladikk.com/2026/05/01/ai-genies/)
+
+LLM을 소원을 들어주는 지니에 빗대어, AI 코딩에서도 명확한 목표와 도메인 이해·모듈식 설계가 필요하다는 관점.
+
+<sub>Vlad Khononov · AI 코딩 / 설계</sub>
+
 ### [AI와 함께 개발할 때 Go가 유리한 이유](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 빠른 컴파일과 일관된 코드·통합 도구가 AI 생성 코드의 검토·검증 반복에 유리하다는 관점.
 
 <sub>Google Developers Blog · Go / AI 코딩</sub>
-
-### [서버 모니터링 분석 가이드](https://kciter.so/posts/server-monitoring-analysis-guide/)
-
-지연과 에러 같은 사용자 증상에서 출발해, 여러 지표를 함께 읽으며 장애 원인을 좁히는 방법.
-
-<sub>kciter.so · 모니터링 / 트러블슈팅</sub>
-
-### [켄트 벡과 함께하는 증강 코딩](https://velog.io/@qlgks1/Kent-Beck-Augmented-Coding)
-
-개발자가 주도권을 잡고 테스트와 구조 개선을 병행하는 증강 코딩의 원칙과 실전 워크플로우.
-
-<sub>정현우 · AI 코딩 / TDD</sub>
 
 [아티클 전체 보기 →](collection/articles.md)
 
