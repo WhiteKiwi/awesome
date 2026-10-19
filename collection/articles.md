@@ -6,6 +6,8 @@
 
 ## 모아둔 것들
 
+- [기술 부채, 인지 부채, 의도 부채… '부채'라는 말을 너무 쉽게 쓰고 있다](https://codex.epril.com/misuse-of-debt-metaphor-in-software-development) — Ward Cunningham의 기술 부채 은유를 학습의 관점에서 되짚고, 원금·이자·상환을 통해 기술 부채와 인지·의도 문제를 구분하는 글. `기술 부채` `소프트웨어 설계` `AI 코딩` · 2026-10-19
+  - 메모: 부채를 정의하고, 원금은 더 나은 이해를 아직 반영하지 못한 코드, 이자는 점점 커지는 변경 비용에 대응시킨 비유가 인상적.
 - [How to Write Usefully](https://www.paulgraham.com/useful.html) — 독자에게 새롭고 중요한 사실을 정확하고 분명하게 전달하는 글의 조건과, 이를 위해 초고를 고쳐 쓰고 생각을 다듬는 방법을 설명하는 폴 그레이엄의 에세이. `글쓰기` `에세이` · 2026-10-16
 - [Genies Grant Wishes Only to Teach You a Lesson](https://vladikk.com/2026/05/01/ai-genies/) — LLM을 소원을 들어주는 지니에 빗대어, AI 코딩에서도 명확한 목표와 도메인 이해·모듈식 설계가 필요하다고 설명하는 글. `AI 코딩` `DDD` `모듈식 설계` · 2026-10-16
 - [Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) — Go의 빠른 컴파일과 일관된 코드·통합 도구가 AI 생성 코드를 검토하고 검증하는 반복에 유리하다고 설명하는 글. `Go` `AI 코딩` `개발 생산성` · 2026-10-13
