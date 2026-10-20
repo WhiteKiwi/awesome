@@ -14,6 +14,12 @@
 
 ## 아티클
 
+### [AI가 짠 테스트 절반은 허수였습니다 — 뮤테이션 테스트](https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing)
+
+AI가 생성한 테스트가 모두 통과하더라도 실제 결함을 잡아낸다는 보장은 없다는 문제에서 출발해, 코드에 의도적으로 작은 오류를 넣고 테스트가 이를 감지하는지 확인하는 뮤테이션 테스트의 실전 적용 사례.
+
+<sub>`AI 코딩` · `테스팅` · `뮤테이션 테스트` · 2026-10-20</sub>
+
 ### [기술 부채, 인지 부채, 의도 부채… '부채'라는 말을 너무 쉽게 쓰고 있다](https://codex.epril.com/misuse-of-debt-metaphor-in-software-development)
 
 기술 부채의 원래 은유를 되짚으며, 원금·이자·상환이라는 개념으로 기술 부채와 다른 종류의 문제를 구분하는 글.
